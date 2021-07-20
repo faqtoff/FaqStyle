@@ -1,0 +1,38 @@
+/* BANNER */
+.fs-banner-container {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+.fs-background-image {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+.fs-banner-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.fs-banner-info > img {
+  width: 108px;
+  height: 108px;
+}
+
+.fs-banner-info__title {
+  color: aliceblue;
+  font-size: 28px;
+  margin-top: 65px;
+  margin-bottom: 0;
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+}
+.fs-banner-info__title span {
+  color: aliceblue;
+  font-size: 16px;
+  margin: 18px auto;
+  font-weight: 300;
+}

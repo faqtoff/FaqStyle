@@ -1,0 +1,28 @@
+.progressbar {
+  margin-top: 5px;
+  background-color: rgba(122, 122, 122, 0.1);
+  border-radius: 13px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+}
+.progressbar > div {
+  background-color: #2596be;
+  /*width: 45%;*/
+  /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+.progess {
+  margin: 20px 0;
+  width: 100%;
+  background-color: rgba(144, 149, 161, 0.15);
+  border-radius: 1rem;
+  height: 6px;
+  display: block;
+}
+.progess > .progress-bar {
+  border-radius: 1rem;
+  height: 6px;
+  display: block;
+}
