@@ -1,0 +1,27 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 26px;
+  box-sizing: border-box;
+  background-color: white;
+  border-radius: 1rem;
+  box-shadow: 0 0 10px 0 var(--gray-400);
+  height: 70px;
+  width: 100%;
+}
+.logo {
+  height: 3rem;
+  width: auto;
+}
+.nav-list {
+  align-items: center;
+  display: flex;
+  list-style: none;
+}
+.nav-item {
+  margin-left: 26px;
+}
+
+@media (max-width: 1024px) {
+}

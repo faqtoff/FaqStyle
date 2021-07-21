@@ -8,6 +8,8 @@ import ModalPage from "./FaqStyle/Modal/ModalPage";
 import CardPage from "./FaqStyle/Card/CardPage";
 import ProgresBarPage from "./FaqStyle/Progressbar/ProgresBarPage";
 import FormPage from "./FaqStyle/Forms/FormPage";
+import AlertPage from "./FaqStyle/Alert/AlertPage";
+import NavbarPage from "./FaqStyle/Navbar/NavbarPage";
 
 function App() {
   return (
@@ -56,9 +58,11 @@ function App() {
 
         <FormPage />
 
+        <AlertPage />
         <ButtonPage />
         <CardPage />
         <ModalPage />
+        <NavbarPage />
         <ProgresBarPage />
         <FaqFooter />
       </div>

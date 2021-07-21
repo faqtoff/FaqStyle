@@ -26,6 +26,18 @@ const CardPage = () => {
                 &lt;/div&gt;
             </code>
 
+            <div className="card card-border">
+                <span>Curso</span>
+                <h1>Html y Css</h1>
+                <p>Aprende a crear estructuras de sitios webs con HTML5 y CSS3. Podras hacer paginas responsive, para que en todos los dispositivos se vea increible, de cero a profesional, sin dificultades</p>
+                <p>Por Nati Guida, desarrolladora en Mercado Libre</p>
+            </div>
+            <code>
+                &lt;div className="card card-border"&gt;<br />
+                &lt;p&gt;Contenido &lt;/p&gt;<br />
+                &lt;/div&gt;
+            </code>
+
             <div className="container-sm card card-shadow">
                 <p>Contenido</p>
             </div>

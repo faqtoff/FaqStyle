@@ -1,34 +1,9 @@
-.form > p {
-  font-size: 1.3rem;
-  margin: 0;
-}
-.legend {
-  font-size: 2.4rem;
-  color: #333333;
-}
-.label {
-  display: block;
-  font-weight: 700;
-  text-transform: uppercase;
-}
+/* GENERALES */
 
-.input:not([type="submit"]),
-.textarea,
-.select,
-.form-input-luz {
-  padding: 1rem;
-  display: block;
-  background-color: #e1e1e1;
-  margin-bottom: 2rem;
-  border: none;
-  border-radius: 1rem;
-  width: stretch;
-}
-.input[type="radio"] {
+input[type="radio"] {
   width: auto;
 }
-.select,
-.form-select-luz {
+select {
   -webkit-appearance: none;
   appearance: none;
 }
@@ -36,25 +11,41 @@ textarea {
   height: 20rem;
   resize: none;
 }
+.input:not([type="submit"]),
+.textarea,
+.select {
+  padding: 1rem;
+  margin-bottom: 2rem;
+  border-radius: 1rem;
+  display: block;
+  border: none;
+  width: stretch;
+}
+/* ----------------------------------------------ESTILOS */
+
+/* GREY */
+.form-grey > p {
+  font-size: 1.3rem;
+  margin: 0;
+}
+.legend-grey {
+  font-size: 2.4rem;
+  color: #333333;
+}
+.label-grey {
+  display: block;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.input-grey:not([type="submit"]),
+.textarea-grey,
+.select-grey {
+  background-color: #e1e1e1;
+}
 
 /* SHADOW */
-.input-shadow,
-.textarea-shadow {
-  padding-left: 1rem;
-  border-radius: 1rem;
+.input-shadow:not([type="submit"]),
+.textarea-shadow,
+.select-shadow {
   box-shadow: 0 0 8px 0 rgba(144, 149, 161, 0.3);
-  border: none;
-}
-.input-shadow {
-  height: 40px;
-  margin: 0 20px 20px 0;
-}
-.input-shadow:last-of-type {
-  margin-right: 0;
-}
-.textarea-shadow {
-  padding-top: 1rem;
-  height: 30vh;
-  width: 100%;
-  resize: none;
 }
