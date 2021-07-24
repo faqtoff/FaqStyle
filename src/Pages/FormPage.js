@@ -10,7 +10,7 @@ const FormPage = () => {
                 <p>Formulario</p>
                 
                     <label className='label label-grey' htmlFor="name">Nombre</label>
-                    <input className='input input-grey' name='name' id='name' type="text" />
+                    <input className='input input-grey' name='name' id='name' type="text" required/>
 
                     <label className='label label-grey' htmlFor="email">Email</label>
                     <input className='input input-grey' name='email' id='email' type="email" />
@@ -34,6 +34,8 @@ const FormPage = () => {
 
                     <label htmlFor="customRange1" className="">Example range</label>
                     <input type="range" className="" id="customRange1"></input>
+
+                    <button className='btn'>Submit</button>
                 </form>
             </div>
 

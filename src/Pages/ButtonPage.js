@@ -6,7 +6,7 @@ const ButtonPage = () => {
             <h2><strong>Buttons</strong></h2>
 
                 <div className='d-flex flex-col'>
-                    <div>
+                    <div className='justify-content-center'>
                         <button>Boton</button>
                     </div>
                     <code>

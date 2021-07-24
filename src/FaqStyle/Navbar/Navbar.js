@@ -1,18 +1,18 @@
 import React from 'react'
 import './Navbar.css'
 import logo from './assets/home.svg'
+import Menu from './assets/menu.svg'
 
-const Navbar = () => {
+const Navbar = ({children, name, className}) => {
     return (
         <div>
-            <nav className="navbar">
+            <nav className={"navbar "+className}>
                 <img src={logo} alt="Icono" className="logo" />
-                <ul className="nav-list">
-                    <li className="nav-item">Cursos</li>
-                    <li className="nav-item">Se Profesor</li>
-                    <li className="nav-item">Contactanos</li>
-                    <li className="nav-item">Ingresa</li>
-                </ul>
+                <label htmlFor={name}>
+                    <img src={Menu} alt="Menu" className="logo-menu"/>
+                </label>
+                <input type="checkbox" id={name} className="menu-navbar"/>
+                {children}
             </nav>
         </div>
     )

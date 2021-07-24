@@ -30,9 +30,13 @@
   flex-direction: column;
   font-weight: bold;
 }
+.fs-banner-info__title span > a,
 .fs-banner-info__title span {
   color: aliceblue;
   font-size: 16px;
   margin: 18px auto;
   font-weight: 300;
+}
+.fs-banner-info__title span > a {
+  text-decoration: none;
 }

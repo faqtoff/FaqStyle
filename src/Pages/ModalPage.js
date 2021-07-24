@@ -1,5 +1,5 @@
 import React from 'react'
-import ModalButtonWrapper from './ModalButtonWrapper'
+import ModalButtonWrapper from '../FaqStyle/Modal/ModalButtonWrapper'
 
 const ModalPage = () => {
     return (

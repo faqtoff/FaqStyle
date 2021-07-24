@@ -1,2 +1,7 @@
 @import url("/src/Normalize.css");
 @import url("./FaqStyle/FaqStyle.css");
+
+.banner-img {
+  background-image: url("./assets/fondoBanner.png");
+  background-position: center;
+}

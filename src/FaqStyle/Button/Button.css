@@ -14,7 +14,9 @@
 }
 .btn:hover {
   background-color: var(--gray-700);
+  /*
   box-shadow: 2px 2px 2px 1px var(--gray-800);
+  */
   cursor: pointer;
 }
 
