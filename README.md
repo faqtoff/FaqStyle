@@ -1,4 +1,4 @@
-# faqstyle
+# FaqStyle
 
 Hoja de estilos by Facundo Toffolo Pasquini
 
