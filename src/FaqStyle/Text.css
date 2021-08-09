@@ -37,3 +37,37 @@ code {
 .text-center {
   text-align: center !important;
 }
+.text-justify {
+  text-align: justify !important;
+}
+.fw-100 {
+  font-weight: 100;
+}
+.fw-200 {
+  font-weight: 200;
+}
+.fw-300 {
+  font-weight: 300;
+}
+.fw-400 {
+  font-weight: 400;
+}
+.fw-500 {
+  font-weight: 500;
+}
+.fs-1 {
+  font-size: 1rem;
+}
+.fs-2 {
+  font-size: 2rem;
+}
+.fs-3 {
+  font-size: 3rem;
+}
+.fs-4 {
+  font-size: 4rem;
+}
+.fs-5 {
+  font-size: 5rem;
+}
+
