@@ -1,3 +1,4 @@
+/*https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Grid.css*/
 .row {
   display: flex;
   grid-auto-rows: minmax(10rem, auto);
