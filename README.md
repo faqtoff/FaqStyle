@@ -1,6 +1,6 @@
 # FaqStyle
 
-Hoja de estilos by [@FaqToff ]("https://faqtoff.com")
+Hoja de estilos by [@FaqToff](https://faqtoff.com)
 ```css
 /* Componentes */
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Alert/Alert.css");
