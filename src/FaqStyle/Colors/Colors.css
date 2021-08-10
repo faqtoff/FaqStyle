@@ -1,6 +1,6 @@
-@import url("./Grey.css");
-@import url("./Blue.css");
-@import url("./Indigo.css");
+@import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Colors/Grey.css");
+@import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Colors/Blue.css");
+@import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Colors/Indigo.css");
 :root {
   --teal: #20c997;
   --cyan: #0dcaf0;
