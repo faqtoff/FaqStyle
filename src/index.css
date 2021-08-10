@@ -1,5 +1,29 @@
-@import url("/src/Normalize.css");
+@import url("./normalize.css");
+/* Componentes */
+@import url("./FaqStyle/Alert/Alert.css");
+@import url("./FaqStyle/Banner/BannerFullScreen.css");
+@import url("./FaqStyle/Button/Button.css");
+@import url("./FaqStyle/Card/Card.css");
+@import url("./FaqStyle/Forms/Forms.css");
+@import url("./FaqStyle/FaqFooter/FaqFooter.css");
+@import url("./FaqStyle/Modal/Modal.css");
+@import url("./FaqStyle/Navbar/Navbar.css");
+@import url("./FaqStyle/Navbar/NavbarAside.css");
+@import url("./FaqStyle/Progressbar/Progressbar.css");
+
+/* Utilidades */
+@import url("./FaqStyle/Colors/Colors.css");
+@import url("./FaqStyle/Conteiners.css");
+@import url("./FaqStyle/Display.css");
+@import url("./FaqStyle/Grid.css");
+@import url("./FaqStyle/Size.css");
+@import url("./FaqStyle/Text.css");
+@import url("./FaqStyle/Margin.css");
+@import url("./FaqStyle/Padding.css");
+
+/* CORE */
 @import url("./FaqStyle/FaqStyle.css");
+
 
 .banner-img {
   background-image: url("./assets/fondoBanner.png");
