@@ -1,33 +1,6 @@
 /*https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Global.css*/
 
-body,
-html {
-  margin: 0;
-  padding: 0;
-  position: absolute;
-  width: 100%;
-  font-family: var(--font-family);
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-html {
-  font-size: 62.5%; /*rem config*/
-  box-sizing: border-box;
-}
-*,
-*:before,
-*:after {
-  box-sizing: inherit;
-}
-body {
-  font-size: 16px; /*rem config 1rem=10px*/
-}
-img {
-  max-width: 100%;
-}
-hr {
-  border: 1px solid rgba(0, 0, 0, 0.125);
-}
+@import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/FaqStyle.css");
 /* Componentes */
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Alert/Alert.css");
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Button/Button.css");
