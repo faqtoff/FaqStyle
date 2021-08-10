@@ -1,6 +1,9 @@
 # FaqStyle
 
 Hoja de estilos by [@FaqToff](https://faqtoff.com)
+
+## Importar todos los modulos:
+- Copia el siguiente codigo en tu `index.css` para importar los diferentes modulos
 ```css
 /* Componentes */
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Alert/Alert.css");
@@ -27,14 +30,28 @@ Hoja de estilos by [@FaqToff](https://faqtoff.com)
 /* CORE */
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/FaqStyle.css");
 ```
-
-Copia la carpeta faqstyle en la raiz de tu pagina y luego agrega este codigo en la etiqueta `<header>` de tu pagina html
+- Tambien se pueden agregar en la etiqueta `<header>` del html de la siguiente manera
 ```html
-<!-- CSS FaqStyle  Global-->
-<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Global.css">
-```
-El siguiente codigo es opcional. Sera requerido por algunas funciones como `modal`, debes copiarlo al final de la etiqueta `<body>` junto con los demas scripts
-```
-<!-- JS FaqStyle -->
-<script src="/css/faqstyle/style.js"></script>
+<!-- Componentes-->
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Alert/Alert.css">
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Banner/BannerFullScreen.css">
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Button/Button.css">
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Card/Card.css">
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Forms/Forms.css">
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/FaqFooter/FaqFooter.css">
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Modal/Modal.css">
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Navbar/Navbar.css">
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Navbar/NavbarAside.css">
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Progressbar/Progressbar.css">
+<!-- Utilidades-->
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Colors/Colors.css">
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Conteiners.css">
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Display.css">
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Grid.css">
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Size.css">
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Text.css">
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Margin.css">
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Padding.css">
+<!-- CORE-->
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/FaqStyle.css">
 ```
