@@ -4,6 +4,7 @@ Hoja de estilos by [@FaqToff](https://faqtoff.com)
 
 ## Importar todos los modulos:
 - Copia el siguiente codigo en tu `index.css` para importar los diferentes modulos
+- Recomendamos importar **SOLO** los modulos que necesites y el Core
 ```css
 /* Componentes */
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Alert/Alert.css");
