@@ -3,7 +3,24 @@
 Hoja de estilos by [@FaqToff](https://faqtoff.com)
 
 ## Indice
-1 - [Importar](https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/FaqStyle.css)
+- [Importar](https://github.com/faqtoff/FaqStyle/blob/main/README.md#importar-todos-los-modulos)
+- Modulos
+  - Alerts
+  - Banner
+  - Card
+  - -Forms
+  - Modal
+  - Navbar
+  - NavbarAside
+  - Progressbar
+- Utilidades
+  - Colors
+  - Conteiners
+  - Display
+  - Grid
+  - Text
+  - Margin
+  - Padding
 ## Importar todos los modulos:
 - Copia el siguiente codigo en tu `index.css` para importar los diferentes modulos
 - Recomendamos importar **SOLO** los modulos que necesites y el Core
