@@ -7,6 +7,7 @@ Hoja de estilos by Facundo Toffolo Pasquini
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Button/Button.css");
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Card/Card.css");
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Forms/Forms.css");
+@import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/FaqFooter/FaqFooter.css");
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Modal/Modal.css");
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Navbar/Navbar.css");
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Navbar/NavbarAside.css");
