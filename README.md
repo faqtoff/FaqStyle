@@ -4,8 +4,8 @@ Hoja de estilos by [@FaqToff](https://faqtoff.com)
 
 ## Indice
 - [Importar](https://github.com/faqtoff/FaqStyle/blob/main/README.md#importar-todos-los-modulos)
-- Modulos
-  - Alerts
+- [Modulos](https://github.com/faqtoff/FaqStyle/tree/main/src/FaqStyle)
+  - [Alerts](https://github.com/faqtoff/FaqStyle/tree/main/src/FaqStyle/Alert)
   - Banner
   - Card
   - -Forms
