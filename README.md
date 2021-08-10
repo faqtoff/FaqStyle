@@ -23,7 +23,7 @@ Hoja de estilos by Facundo Toffolo Pasquini
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Margin.css");
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Padding.css");
 
-/* Global */
+/* CORE */
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/FaqStyle.css");
 ```
 
