@@ -1,6 +1,6 @@
 # FaqStyle
 
-Hoja de estilos by Facundo Toffolo Pasquini
+Hoja de estilos by [@FaqToff ]("https://faqtoff.com")
 ```css
 /* Componentes */
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Alert/Alert.css");
@@ -29,11 +29,10 @@ Hoja de estilos by Facundo Toffolo Pasquini
 
 Copia la carpeta faqstyle en la raiz de tu pagina y luego agrega este codigo en la etiqueta `<header>` de tu pagina html
 ```html
-<!-- CSS FaqStyle -->
-<link rel="stylesheet" href="faqstyle/normalize.css">
-<link rel="stylesheet" href="faqstyle/style.css">
+<!-- CSS FaqStyle  Global-->
+<link rel="stylesheet" href="https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Global.css">
 ```
-El siguiente codigo es opcional. Sera requerido por algunas funciones como `ventana`, debes copiarlo al final de la etiqueta `<body>` junto con los demas scripts
+El siguiente codigo es opcional. Sera requerido por algunas funciones como `modal`, debes copiarlo al final de la etiqueta `<body>` junto con los demas scripts
 ```
 <!-- JS FaqStyle -->
 <script src="/css/faqstyle/style.js"></script>
