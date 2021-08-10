@@ -33,6 +33,9 @@
 .justify-content-around {
   justify-content: space-around !important;
 }
+.align-self-center{
+  align-self: center !important;
+}
 
 @media (min-width: 576px) {
   .d-sm-none {
