@@ -4,6 +4,7 @@ Hoja de estilos by [@FaqToff](https://faqtoff.com)
 ```css
 /* Componentes */
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Alert/Alert.css");
+@import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Banner/BannerFullScreen.css");
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Button/Button.css");
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Card/Card.css");
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Forms/Forms.css");
