@@ -33,6 +33,12 @@
 .justify-content-around {
   justify-content: space-around !important;
 }
+.align-items-center{
+  align-items: center !important;
+}
+.align-content-center{
+  align-content: center !important;
+}
 .align-self-center{
   align-self: center !important;
 }
