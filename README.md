@@ -22,6 +22,9 @@ Hoja de estilos by Facundo Toffolo Pasquini
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Text.css");
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Margin.css");
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Padding.css");
+
+/* Global */
+@import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/FaqStyle.css");
 ```
 
 Copia la carpeta faqstyle en la raiz de tu pagina y luego agrega este codigo en la etiqueta `<header>` de tu pagina html

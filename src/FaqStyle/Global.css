@@ -1,6 +1,5 @@
 /*https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Global.css*/
 
-@import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/FaqStyle.css");
 /* Componentes */
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Alert/Alert.css");
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Button/Button.css");
@@ -21,3 +20,6 @@
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Text.css");
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Margin.css");
 @import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/Padding.css");
+
+/* Global */
+@import url("https://gitcdn.link/repo/faqtoff/FaqStyle/main/src/FaqStyle/FaqStyle.css");
