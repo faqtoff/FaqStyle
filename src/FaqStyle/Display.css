@@ -42,7 +42,11 @@
 .align-self-center{
   align-self: center !important;
 }
-
+.w-stretch {
+    width: stretch;
+    margin-left: 0;
+    margin-right: 0;
+}
 @media (min-width: 576px) {
   .d-sm-none {
     display: none !important;
