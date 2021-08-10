@@ -6,15 +6,15 @@ Hoja de estilos by [@FaqToff](https://faqtoff.com)
 - [Importar](https://github.com/faqtoff/FaqStyle/blob/main/README.md#importar-todos-los-modulos)
 - [Modulos](https://github.com/faqtoff/FaqStyle/tree/main/src/FaqStyle)
   - [Alerts](https://github.com/faqtoff/FaqStyle/tree/main/src/FaqStyle/Alert)
-  - Banner
-  - Card
+  - [Banner](https://github.com/faqtoff/FaqStyle/tree/main/src/FaqStyle/Banner)
+  - [Card](https://github.com/faqtoff/FaqStyle/tree/main/src/FaqStyle/Card)
   - -Forms
   - Modal
   - Navbar
   - NavbarAside
   - Progressbar
 - Utilidades
-  - Colors
+  - [Colors](https://github.com/faqtoff/FaqStyle/tree/main/src/FaqStyle/Colors)
   - Conteiners
   - Display
   - Grid
