@@ -3,7 +3,7 @@
 Hoja de estilos by [@FaqToff](https://faqtoff.com)
 
 ## Indice
-- [Importar](https://github.com/faqtoff/FaqStyle/blob/main/README.md#importar-todos-los-modulos)
+- [Como importar el CSS](https://github.com/faqtoff/FaqStyle/blob/main/README.md#importar-todos-los-modulos)
 - [Modulos](https://github.com/faqtoff/FaqStyle/tree/main/src/FaqStyle)
   - [Alerts](https://github.com/faqtoff/FaqStyle/tree/main/src/FaqStyle/Alert)
   - [Banner](https://github.com/faqtoff/FaqStyle/tree/main/src/FaqStyle/Banner)
