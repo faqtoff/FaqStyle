@@ -20,7 +20,7 @@ textarea {
   border-radius: 1rem;
   display: block;
   border: none;
-  width: stretch;
+  width: 100%;
 }
 /* ----------------------------------------------ESTILOS */
 
