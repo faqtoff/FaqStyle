@@ -22,6 +22,51 @@ textarea {
   border: none;
   width: 100%;
 }
+
+.input[type="range"]{
+  color: var(--primary);
+  appearance: none;
+}
+input[type="file"]{
+  font-size: 40px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+.file-input-wrapper {
+  height: 30px;
+  overflow: hidden;
+  position: relative;
+}
+.input.validate {
+  background-color: var(--red-200);
+}
+.input.slider {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 15px;
+  border-radius: 1rem;
+  padding: 0.5px 0;
+  background: #d3d3d3;
+  outline: none;
+  opacity: .7;
+  transition: opacity .2s;
+}
+input[type="color"] {
+	-webkit-appearance: none;
+	border: none;
+	width: 32px;
+	height: 32px;
+}
+input[type="color"]::-webkit-color-swatch-wrapper {
+	padding: 0;
+}
+input[type="color"]::-webkit-color-swatch {
+	border: none;
+}
 /* ----------------------------------------------ESTILOS */
 
 /* GREY */
@@ -48,4 +93,11 @@ textarea {
 .textarea-shadow,
 .select-shadow {
   box-shadow: 0 0 8px 0 rgba(144, 149, 161, 0.3);
+}
+
+.input-shadow.validate,
+.textarea-shadow.validate,
+.select-shadow.validate {
+  background-color: var(--red-200);
+  color: var(--red-300);
 }
