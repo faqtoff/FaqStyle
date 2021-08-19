@@ -28,10 +28,3 @@
   padding: 2rem;
   border-left: 10px solid pink;
 }
-.card-portfolio {
-  padding: 30px;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  border-radius: 1rem;
-  box-shadow: 0 0 8px 0 rgba(144, 149, 161, 0.15);
-}
