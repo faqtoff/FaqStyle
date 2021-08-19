@@ -79,12 +79,16 @@
   --especial3: #2effe9;
   --especial4: #2cf5a7;
 }
+
 /* TEXT COLORS */
 .color-teal {
   color: var(--teal);
 }
 .color-cyan {
   color: var(--cyan);
+}
+.color-primary {
+  color: var(--primary) !important;
 }
 /* BG COLORS */
 .bg-teal {
@@ -93,3 +97,14 @@
 .bg-cyan {
   background-color: var(--cyan);
 }
+.bg-especial3 {
+  background-color: var(--especial3) !important;
+}
+.bg-especial4 {
+  background-color: var(--especial4) !important;
+}
+.bg-green {
+  background-color: var(--green) !important;
+}
+.bg-primary {
+  background-color: var(--primary) !important;
