@@ -43,3 +43,6 @@ img {
 hr {
   border: 1px solid rgba(0, 0, 0, 0.125);
 }
+.rounded {
+  border-radius: 50%;
+}
