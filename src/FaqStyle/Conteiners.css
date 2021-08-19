@@ -11,6 +11,11 @@
   margin: 0 auto;
   padding: 0 5px;
 }
+.container-faqstyle {
+  margin: 60px 55px;
+  display: flex;
+  flex-direction: column;
+}
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
   .container,
